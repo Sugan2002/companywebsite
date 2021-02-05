@@ -4,7 +4,7 @@
 }
 body{
     background-color: whitesmoke;
-    color:  #17421D;
+    color:blue;
 }
 .container{
     width: 1080px;
@@ -33,7 +33,7 @@ body{
     width: 100%;
     height: 50px;
     font-size: larger;
-    background-color: #17421D;
+    background-color:blue;
     text-align: center;
     padding-top: 15px;
     margin: 0px 0px 0px 0px;
@@ -123,9 +123,16 @@ body{
     display: block;
     width: 100%;
     height: 40px;
-    background-color: #17421D;
+    background-color:blue;
     text-align: center;
     padding-top: 10px;
     margin: 0px 0px 0px 0px;
     color: rgb(218, 214, 214);
+}
+.content{
+    min-height: 500px;
+    margin: 10px 10px 10px 10px;
+}
+.contacttext{
+    text-align: justify;
 }
